@@ -26,28 +26,6 @@ This project builds an **end-to-end sentiment analysis pipeline** to classify Am
 
 ---
 
-##  Demo / Screenshots
-
-###  Streamlit App Interface
-
-*(Add your screenshot here — instructions below)*
-
-![App Screenshot](images/app_ui.png)
-
----
-
-### Prediction Example
-
-![Prediction Output](images/prediction.png)
-
----
-
-###  Word Cloud Visualization
-
-![Word Cloud](images/wordcloud.png)
-
----
-
 ##  Objectives
 
 * Classify reviews into **positive / negative sentiment**
